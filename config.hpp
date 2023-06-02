@@ -6,7 +6,7 @@
 #define CHEFS_PER_GUEST 3
 #define NUM_CHEFS (NUM_GUESTS * CHEFS_PER_GUEST)
 
-#define MODE 2 // 1:宴会模式; 2:限时任务
+#define MODE 1 // 1:宴会模式; 2:限时任务
 #define TARGET_SCORE_APPROXIMATE 4600000
 // 预期达到的分数
 // 如果是限时任务，这里输分数线
